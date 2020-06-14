@@ -1,5 +1,12 @@
 # ncurses-tetris
 
+![main](https://user-images.githubusercontent.com/51525202/84583941-fda46600-ae39-11ea-85ba-a3e8a7e99525.png)
+
+<br/>
+
+![in-game](https://user-images.githubusercontent.com/51525202/84583942-fe3cfc80-ae39-11ea-87ca-4a58f77d9116.png)
+
+
 **src**
 - main.c : 메인 함수.
 - color.c : curses 내장 함수인 color를 사용.
@@ -20,4 +27,3 @@
 - k	: 하단 이동
 - z	: 아이템 사용
 - p	: 일시 정지
-
