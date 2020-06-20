@@ -21,7 +21,7 @@ UNIX 계열 OS에서 제공하는 terminal 제어 라이브러리인 curses를 �
 
 <br/>
 
-## 
+## 입력 
 - space 	: 블록 떨어뜨리기
 - i	: 회전
 - j : 왼쪽 이동
